@@ -4,4 +4,4 @@ This RecyclerView contains two textView and an ImageView.
 
 ScreenShoot:
 
-![RecyclerView](/RecyclerView-CardView_OnItemClick_LongClick_PopUpMenu/screenshoot.gif)
+![RecyclerView](https://github.com/sudarshaana/RecyclerView-CardView_OnItemClick_LongClick_PopUpMenu/blob/master/screenshoot.gif?raw=true)
